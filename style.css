@@ -334,6 +334,10 @@ h1 {
         display: block;
     }
 
+    .mobile__nav {
+        display: none;
+    }
+
     .icon {
         display: block;
         padding-left: 2%;
